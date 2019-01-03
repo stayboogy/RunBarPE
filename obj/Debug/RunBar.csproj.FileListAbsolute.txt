@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\bin\Debug\RunBar.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\bin\Debug\RunBar.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\bin\Debug\RunBar.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar\RunBar\obj\Debug\RunBar.RunBar.resources
