@@ -1,8 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\bin\x86\Release\RunBar.exe.config
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\bin\x86\Release\RunBar.exe
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\bin\x86\Release\RunBar.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\obj\x86\Release\RunBar.RunBar.resources
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\obj\x86\Release\RunBar.Properties.Resources.resources
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\obj\x86\Release\RunBar.csproj.GenerateResource.Cache
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\obj\x86\Release\RunBar.exe
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar\RunBar\obj\x86\Release\RunBar.pdb
