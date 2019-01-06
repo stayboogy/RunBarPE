@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\bin\x86\Release\RunBarPE.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\bin\x86\Release\RunBarPE.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\bin\x86\Release\RunBarPE.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\obj\x86\Release\RunBarPE.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\obj\x86\Release\RunBarPE.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\obj\x86\Release\RunBarPE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\obj\x86\Release\RunBarPE.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBarPE\RunBarPE\obj\x86\Release\RunBarPE.pdb
