@@ -41,6 +41,8 @@
             this.nsudo = new System.Windows.Forms.Button();
             this.shutdown = new System.Windows.Forms.Button();
             this.reboot = new System.Windows.Forms.Button();
+            this.partassist = new System.Windows.Forms.Button();
+            this.datarec = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // cmd
@@ -155,7 +157,7 @@
             // 
             // shutdown
             // 
-            this.shutdown.Location = new System.Drawing.Point(12, 360);
+            this.shutdown.Location = new System.Drawing.Point(12, 417);
             this.shutdown.Name = "shutdown";
             this.shutdown.Size = new System.Drawing.Size(75, 23);
             this.shutdown.TabIndex = 11;
@@ -165,7 +167,7 @@
             // 
             // reboot
             // 
-            this.reboot.Location = new System.Drawing.Point(12, 331);
+            this.reboot.Location = new System.Drawing.Point(12, 388);
             this.reboot.Name = "reboot";
             this.reboot.Size = new System.Drawing.Size(75, 23);
             this.reboot.TabIndex = 12;
@@ -173,11 +175,33 @@
             this.reboot.UseVisualStyleBackColor = true;
             this.reboot.Click += new System.EventHandler(this.reboot_Click);
             // 
+            // partassist
+            // 
+            this.partassist.Location = new System.Drawing.Point(12, 331);
+            this.partassist.Name = "partassist";
+            this.partassist.Size = new System.Drawing.Size(75, 23);
+            this.partassist.TabIndex = 13;
+            this.partassist.Text = "PARTITION";
+            this.partassist.UseVisualStyleBackColor = true;
+            this.partassist.Click += new System.EventHandler(this.partassist_Click);
+            // 
+            // datarec
+            // 
+            this.datarec.Location = new System.Drawing.Point(12, 359);
+            this.datarec.Name = "datarec";
+            this.datarec.Size = new System.Drawing.Size(75, 23);
+            this.datarec.TabIndex = 14;
+            this.datarec.Text = "DATA REC";
+            this.datarec.UseVisualStyleBackColor = true;
+            this.datarec.Click += new System.EventHandler(this.datarec_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(103, 394);
+            this.ClientSize = new System.Drawing.Size(103, 452);
+            this.Controls.Add(this.datarec);
+            this.Controls.Add(this.partassist);
             this.Controls.Add(this.reboot);
             this.Controls.Add(this.shutdown);
             this.Controls.Add(this.nsudo);
@@ -213,6 +237,8 @@
         private System.Windows.Forms.Button nsudo;
         private System.Windows.Forms.Button shutdown;
         private System.Windows.Forms.Button reboot;
+        private System.Windows.Forms.Button partassist;
+        private System.Windows.Forms.Button datarec;
     }
 }
 

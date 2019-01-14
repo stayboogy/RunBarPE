@@ -90,5 +90,15 @@ namespace RunBarPE
             shutdownP.Arguments = "Shutdown";
             System.Diagnostics.Process.Start(shutdownP);
         }
+
+        private void partassist_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start(@"X:\Tools\PartAssist\PartAssist.exe");
+        }
+
+        private void datarec_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start(@"X:\Tools\datarecovery\DRW0.exe");
+        }
     }
 }

@@ -1,1 +1,2 @@
 c:\users\administrator\documents\visual studio 2015\Projects\RunBarPE\RunBarPE\bin\Debug\RunBarPE.exe.config
+C:\Users\Administrator\Desktop\RunBarPE-master\bin\Debug\RunBarPE.exe.config
